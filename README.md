@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=obaidashfaq20&theme=blue-green)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=obaidashfaq20&theme=blue-green)
+
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=obaidashfaq20&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=obaidashfaq20&theme=blue-green)
