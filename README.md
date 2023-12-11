@@ -11,7 +11,6 @@
 
 
 <img align='right' width=46% src="https://github-readme-stats.vercel.app/api?username=obaidashfaq20&show_icons=true">
-<img align="center" width=46% src="https://github-readme-streak-stats.herokuapp.com/?user=obaidashfaq20&" alt="prashanth-sams" /></p>
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=obaidashfaq20&show_icons=true)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=obaidashfaq20&theme=blue-green)
